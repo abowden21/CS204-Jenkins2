@@ -37,6 +37,7 @@ class Calculator {
     .
     .
     .
+    .
     etc
      */
     int fibonacciNumberFinder(int n){
